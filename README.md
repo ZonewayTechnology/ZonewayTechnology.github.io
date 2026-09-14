@@ -2,7 +2,7 @@
 
 [![Official Website](https://img.shields.io/badge/Official-Zoneway.com-blue)](https://www.zoneway.com)
 [![IATF 16949 Certified](https://img.shields.io/badge/Certification-IATF%2016949%20%7C%20ISO%209001-brightgreen)](https://www.zoneway.com/Company_Profile.html)
-[![B2B Inquiry](https://img.shields.io/badge/Request-B2B%20Quote%2FSample-orange)](../../issues/new/choose)
+[![B2B Inquiry](https://img.shields.io/badge/Request-B2B%20Quote%2FSample-orange)](mailto:sales@zoneway.com)
 
 Welcome to the official technical and engineering resource repository of **Shenzhen Zoneway Technology Co., Ltd.** (深圳市中正威科技有限公司). Established in 2015, Zoneway is a national high-tech enterprise specializing in the R&D, manufacturing, and sales of **TFT LCD display modules, CTP capacitive touch panels, and fully laminated (optical bonding) display assemblies**.
 
