@@ -38,8 +38,8 @@ This 7.0-inch TFT LCD display module (**ZZW700HIH-2072A**) is specifically engin
 
 ## 📥 Engineering Resources & Downloads
 
-* 📄 **Datasheet (PDF)**: [Download ZZW700HIH-2072A Datasheet](./Datasheets/inquiry-notice.md)
-* 📐 **2D/3D CAD Drawing**: [Request CAD Drawing (DXF/STP)](mailto:sales@zoneway.com?subject=CAD%20Request%20-%20ZZW700HIH-2072A)
+* 📄 **Datasheet (PDF)**: [Download ZZW700HIH-2072A Datasheet](https://www.zoneway.com/Products_detail/137.html)
+* 📐 **2D/3D CAD Drawing**: [Request CAD Drawing (DXF/STP)](https://www.zoneway.com/Products_detail/137.html)
 
 ---
 
