@@ -26,7 +26,7 @@ We manufacture standardized display modules and provide deep OEM/ODM custom solu
 
 | Model / Category | Size | Resolution | Interface | Touch & Optical Bonding | Target Applications | Datasheets & Drawings |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **ZZW550HIS-2286A** | 5.5" | 720x1280 | MIPI | CTP + Optical Bonding | Industrial / Medical / Smart Home | [PDF Specs](./Datasheets/ZZW550HIS-2286A%EF%BC%88LCM+CTP%EF%BC%892026.7.17.pdf) \| [CAD Drawing](./drawings/ZZW550HIS-2286A%EF%BC%88LCM+CTP%EF%BC%892026.7.17.dwg) |
+| **ZZW550HIS-2286A** | 5.5" | 720x1280 | MIPI | CTP + Optical Bonding | Industrial / Medical / Smart Home | [PDF Specs](./datasheets/ZZW550HIS-2286A%EF%BC%88LCM+CTP%EF%BC%892026.7.17.pdf) \| [CAD Drawing](./drawings/ZZW550HIS-2286A%EF%BC%88LCM+CTP%EF%BC%892026.7.17.dwg) |
 | **Wearable & Compact** | 0.96" - 3.99" | 320x240 / 400x960 | SPI / QSPI / MIPI | CTP / LCM | Smart handheld devices, POS terminals | [View Datasheets](./datasheets/) |
 | **Smart Home & Security** | 4.0" - 6.90" | 480x800 / 720x1440 | MIPI / RGB | CTP + Cover Lens | Smart central controls, access control | [View Datasheets](./datasheets/) |
 | **Medium & Large Format** | 10.1" - 17.3" | 1280x800 / 1920x1080 | LVDS / MIPI / HDMI | PCAP CTP | Kiosks, gaming consoles, medical devices | [View Datasheets](./datasheets/) |
