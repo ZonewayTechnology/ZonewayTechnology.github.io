@@ -40,6 +40,7 @@ We manufacture standardized display modules and provide deep OEM/ODM custom solu
 * **Resource Directory**: 
   * `datasheets/` — Product specification PDFs & pinout definitions.
   * `drawings/` — 2D (DXF/PDF) and 3D (STP) mechanical CAD models.
+    
 📬 Contact Us & Sample Orders
 Submit B2B Inquiry: Click B2B Inquiry & Customization Form on GitHub to send your project requirements directly to our engineering team.
 
