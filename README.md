@@ -26,11 +26,11 @@ We manufacture standardized display modules and provide deep OEM/ODM custom solu
 
 | Model / Category | Size | Resolution | Interface | Touch & Optical Bonding | Target Applications | Datasheets & Drawings |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **ZZW550HIS-2286A** | 5.5" | 720x1280 | MIPI | CTP + Optical Bonding | Industrial / Medical / Smart Home | [PDF Specs](./datasheets/ZZW550HIS-2286A%EF%BC%88LCM+CTP%EF%BC%892026.7.17.pdf) \| [CAD Drawing](./drawings/ZZW550HIS-2286A%EF%BC%88LCM+CTP%EF%BC%892026.7.17.dwg) |
-| **Wearable & Compact** | 0.96" - 3.99" | 320x240 / 400x960 | SPI / QSPI / MIPI | CTP / LCM | Smart handheld devices, POS terminals | [View Datasheets](./inquiry-notice.md) |
-| **Smart Home & Security** | 4.0" - 6.90" | 480x800 / 720x1440 | MIPI / RGB | CTP + Cover Lens | Smart central controls, access control | [View Datasheets](./inquiry-notice.md) |
-| **Medium & Large Format** | 10.1" - 17.3" | 1280x800 / 1920x1080 | LVDS / MIPI / HDMI | PCAP CTP | Kiosks, gaming consoles, medical devices | [View Datasheets](./inquiry-notice.md) |
-| [7.0-Inch Electric Vehicle Display Module (ZZW700HIH-2072A)](./7-inch-electric-vehicle-display.md) |
+| **ZZW550HIS-2286A** | 5.5" | 720x1280 | MIPI | CTP + Optical Bonding | Industrial / Medical / Smart Home | [PDF Specs](./datasheets/inquiry-notice.md) \| [CAD Drawing](./datasheets/inquiry-notice.md) |
+| [ZZW700HIH-2072A](./7-inch-electric-vehicle-display.md) | 7.0" | 1024x600 | RGB | LCM + LENS | Two-Wheeled Electric Vehicle Cluster | [Datasheet & Specs](./7-inch-electric-vehicle-display.md) |
+| **Wearable & Compact** | 0.96" - 3.99" | 320x240 / 400x960 | SPI / QSPI / MIPI | CTP / LCM | Smart handheld devices, POS terminals | [View Datasheets](./datasheets/inquiry-notice.md) |
+| **Smart Home & Security** | 4.0" - 6.90" | 480x800 / 720x1440 | MIPI / RGB | CTP + Cover Lens | Smart central controls, access control | [View Datasheets](./datasheets/inquiry-notice.md) |
+| **Medium & Large Format** | 10.1" - 17.3" | 1280x800 / 1920x1080 | LVDS / MIPI / HDMI | PCAP CTP | Kiosks, gaming consoles, medical devices | [View Datasheets](./datasheets/inquiry-notice.md) |
 
 ---
 
