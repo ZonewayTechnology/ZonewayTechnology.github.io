@@ -30,6 +30,7 @@ We manufacture standardized display modules and provide deep OEM/ODM custom solu
 | **Wearable & Compact** | 0.96" - 3.99" | 320x240 / 400x960 | SPI / QSPI / MIPI | CTP / LCM | Smart handheld devices, POS terminals | [View Datasheets](./inquiry-notice.md) |
 | **Smart Home & Security** | 4.0" - 6.90" | 480x800 / 720x1440 | MIPI / RGB | CTP + Cover Lens | Smart central controls, access control | [View Datasheets](./inquiry-notice.md) |
 | **Medium & Large Format** | 10.1" - 17.3" | 1280x800 / 1920x1080 | LVDS / MIPI / HDMI | PCAP CTP | Kiosks, gaming consoles, medical devices | [View Datasheets](./inquiry-notice.md) |
+| ** [7.0-Inch Electric Vehicle Display Module (ZZW700HIH-2072A)](./7-inch-electric-vehicle-display.md) |
 
 ---
 
